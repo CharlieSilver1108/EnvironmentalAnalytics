@@ -1,3 +1,4 @@
+### About:
 This is an individual project, completed as an assignment for a Year 1 Module at the University of Exeter, using Python. It was completed using Visual Studio Code.
 
 ### The Project Description:
@@ -10,4 +11,5 @@ You will implement the analytics routines of the AQUA platform which must genera
 • Mobility Intelligence (MI)
 • Real-time Monitoring (RM)
 
+## Other:
 There is also a Utilities module included containing useful functions that are used within the other modules
