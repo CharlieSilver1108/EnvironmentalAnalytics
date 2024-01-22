@@ -6,13 +6,10 @@ The environmental, economical and societal challenges imposed by the ongoing cli
 
 As part of the NetZero commitments assumed by the UK government, you were invited to contribute to the AQUA (Air QUality Analytics) platform. The AQUA platform is an air pollution data analytics solution. AQUA users are policy-makers and public servants responsible for monitoring the pollution levels in different areas of the country.
 
-You will implement the analytics routines of the AQUA platform which must generate an array of statistics for different air monitoring stations. More precisely, you will have to implement three modules of the platform:
-
-• Pollution Reporting (PR)
-
-• Mobility Intelligence (MI)
-
-• Real-time Monitoring (RM)
+You will implement the analytics routines of the AQUA platform which must generate an array of statistics for different air monitoring stations. More precisely, you will have to implement three modules of the platform: \n
+• Pollution Reporting (PR) \n
+• Mobility Intelligence (MI) \n
+• Real-time Monitoring (RM) \n
 
 ## Other:
 There is also a Utilities module included containing useful functions that are used within the other modules
